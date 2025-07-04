@@ -1,0 +1,1 @@
+# LaTeX temporary files *.aux *.log *.bbl *.blg *.lof *.lot *.toc *.out *.gz *.fls *.fdb_latexmk *.synctex.gz *.xdv *.dvi *.nav *.snm *.vrb *.fdr *.rel
